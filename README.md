@@ -2,9 +2,13 @@
 
 I am an Android developer, passionate about new technologies
 
-Get Me on
+**Get Me on**
 
 [Twitter](https://twitter.com/devjcastro)
+
+[LinkedIn](https://www.linkedin.com/in/dev-jorgecastro)
+
+[Dev](https://dev.to/devjorgecastro)
 
 <!--
 **devjorgecastro/devjorgecastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
