@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Jorge
+### Hi there 👋, I'm Jorge  <div align = 'right'>![](https://komarev.com/ghpvc/?username=devjorgecastro&color=yellow)</div>
 
 I am an Android developer, passionate about new technologies
 
