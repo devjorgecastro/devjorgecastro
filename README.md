@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 
 [twitter]: https://twitter.com/devjcastro
 [linkedin]: https://www.linkedin.com/in/dev-jorgecastro
-[devto]: https://dev.to/devjorgecastro
+[devto]: https://dev.to/jorgecastro
 [medium]: https://devjorgecastro.medium.com/
 [hashnode]: https://jorgecastro.hashnode.dev/
